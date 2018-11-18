@@ -209,5 +209,6 @@ mvn exec:java -Dexec.mainClass="es.uvigo.mei.jpainicial.MainPedido"
 ## TAREA EXTRA
 * Comprobar la importación y uso del proyecto creado desde el IDE Java empleado habitualmente.
 
+## Proyecto final resultante
 
-
+Disponible en Github: [https://github.com/mei2018si/jpainicial](https://github.com/mei2018si/jpainicial)
